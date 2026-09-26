@@ -1,0 +1,22 @@
+PART C VERIFIED DASHBOARD METRICS
+
+Total Revenue: INR 1,047,973
+Total Bookings: 600
+Total SLA Breaches: 79
+SLA Breach Rate: 13.2% (79/600)
+
+CITY METRICS
+Bengaluru: Revenue INR 179,835; Bookings 107; SLA Breaches 17; SLA Breach Rate 15.89%
+Hyderabad: Revenue INR 171,638; Bookings 98; SLA Breaches 14; SLA Breach Rate 14.29%
+Mumbai: Revenue INR 151,430; Bookings 92; SLA Breaches 13; SLA Breach Rate 14.13%
+Chennai: Revenue INR 175,572; Bookings 113; SLA Breaches 15; SLA Breach Rate 13.27%
+Pune: Revenue INR 228,727; Bookings 107; SLA Breaches 14; SLA Breach Rate 13.08%
+Delhi NCR: Revenue INR 140,771; Bookings 83; SLA Breaches 6; SLA Breach Rate 7.23%
+
+CATEGORY METRICS
+Deep Home Cleaning: Revenue INR 508,964; Bookings 176; SLA Breaches 21; SLA Breach Rate 11.93%
+Salon for Women: Revenue INR 151,689; Bookings 65; SLA Breaches 7; SLA Breach Rate 10.77%
+Electrical Repair: Revenue INR 119,881; Bookings 112; SLA Breaches 13; SLA Breach Rate 11.61%
+AC Repair & Service: Revenue INR 113,039; Bookings 74; SLA Breaches 11; SLA Breach Rate 14.86%
+Plumbing: Revenue INR 80,837; Bookings 95; SLA Breaches 13; SLA Breach Rate 13.68%
+Salon for Men: Revenue INR 73,563; Bookings 78; SLA Breaches 14; SLA Breach Rate 17.95%
