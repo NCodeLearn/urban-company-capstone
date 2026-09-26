@@ -1,4 +1,3 @@
-
 # Data Verification Results
 # categories = 7 rows
 # partners_import = 52 rows
